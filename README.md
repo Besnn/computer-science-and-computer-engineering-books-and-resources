@@ -8,8 +8,7 @@ These Books and Resources all use licenses that permit **at least personal (non-
 ### Todo:
 * Complete 'Computer Architecture';
 * Add 'Operational Research' in 'Math';
-* Add 'Concurrent Programming';
-* Electricity Department Non-Existent;
+* Electricity Department a bit weak;
 * Complete Syllabus *(https://www.wikiwand.com/en/Bachelor_of_Computer_Science has a good list)*
 # Courses by Group
 ## Math
@@ -28,8 +27,11 @@ These Books and Resources all use licenses that permit **at least personal (non-
 * Theoretical Computer Science: [Foundations of Computation](http://math.hws.edu/FoundationsOfComputation/FoundationsOfComputation_2.3.2_6x9.pdf)
 * Quick Reads:
   * [Permutations & Combinations](https://math.berkeley.edu/~arash/55/6_3.pdf) *(recommended)*
-## Physics
+## Physics, Electricity & Electronics
 * Physics: [College Physics](https://openstax.org/details/books/college-physics) *(online; pdf)*
+* Circuit Theory:
+  * [DC Circuits](https://shareok.org/bitstream/handle/11244/52245/DC%20Circuits,%201st%20Edition%20-%20Davis,%202016.pdf?sequence=17)
+  * [AC Circuits](https://open.umn.edu/opentextbooks/formats/807)
 ## Computers & Computer Architecture
 * Computers: [Digital Circuit Projects: An Overview of Digital Circuits Through Implementing Integrated Circuits](https://cupola.gettysburg.edu/cgi/viewcontent.cgi?article=1000&context=oer)
 * Operating Systems: [Operating Systems and Middleware:Supporting Controlled Interaction](https://gustavus.edu/mcs/max/os-book/osm-rev1.3.pdf)
