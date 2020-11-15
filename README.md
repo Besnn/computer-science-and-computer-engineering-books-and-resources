@@ -10,7 +10,7 @@ These Books and Resources all use licenses that allow **at least personal (non-c
   * Calculus II:
   * Real Analysis:
 * Calculus:
-  * [Calculus by Strang](https://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf)
+  * [Calculus - *Strang*](https://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf)
 ## Communications
 * Computer Networks: 
   * [Computer Networks: A Systems Approach](https://book.systemsapproach.org/)
