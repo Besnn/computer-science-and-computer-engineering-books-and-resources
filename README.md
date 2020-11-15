@@ -1,10 +1,15 @@
-# This Compilation Is Work In Progress
 # Important Note
 These Books and Resources all use licenses that permit **at least personal (non-commercial) use**.  
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/80x15.png" /></a>
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a>
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/80x15.png" /></a>
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/80x15.png" /></a>  
+#### ⚠️ This Compilation is Work in Progress ⚠️  
+### Todo:
+* Complete 'Computer Architecture';
+* Add 'Operational Research' in 'Math';
+* Add 'Concurrent Programming';
+* Complete Syllabus *(https://www.wikiwand.com/en/Bachelor_of_Computer_Science has a good list)*
 # Courses by Group
 ## Math
 * Preliminaries: [Precalculus](https://www.stitz-zeager.com/szprecalculus07042013.pdf)
