@@ -9,6 +9,7 @@ These Books and Resources all use licenses that permit **at least personal (non-
 * Complete 'Computer Architecture';
 * Add 'Operational Research' in 'Math';
 * Add 'Concurrent Programming';
+* Electricity Department Non-Existent;
 * Complete Syllabus *(https://www.wikiwand.com/en/Bachelor_of_Computer_Science has a good list)*
 # Courses by Group
 ## Math
