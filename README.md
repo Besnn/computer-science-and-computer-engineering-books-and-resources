@@ -25,19 +25,23 @@ These Books and Resources all use licenses that permit **at least personal (non-
 * Statistics:
   * [Introductory Statistics](https://saylordotorg.github.io/text_introductory-statistics/)
   * Statistics with Python: [Think Stats: Exploratory Data Analysis in Python](http://greenteapress.com/thinkstats2/html/index.html)
+* Theoretical Computer Science: [Foundations of Computation](http://math.hws.edu/FoundationsOfComputation/FoundationsOfComputation_2.3.2_6x9.pdf)
 * Quick Reads:
   * [Permutations & Combinations](https://math.berkeley.edu/~arash/55/6_3.pdf) *(recommended)*
 ## Physics
 * Physics: [College Physics](https://openstax.org/details/books/college-physics) *(online; pdf)*
-## Computer Architecture
+## Computers & Computer Architecture
+* Computers: [Digital Circuit Projects: An Overview of Digital Circuits Through Implementing Integrated Circuits](https://cupola.gettysburg.edu/cgi/viewcontent.cgi?article=1000&context=oer)
 * Operating Systems: [Operating Systems and Middleware:Supporting Controlled Interaction](https://gustavus.edu/mcs/max/os-book/osm-rev1.3.pdf)
+* [High Performance Computing](https://cnx.org/exports/bb821554-7f76-44b1-89e7-8a2a759d1347@5.2.pdf/high-performance-computing-5.2.pdf)
 * Quick Reads:
   * [Number Systems & Codes](http://www.aet.calu.edu/~jsumey/CET270/notes/01-Numbers.pdf)
 ## Systems
-* GIS: [Essentials of Geographic Information Systems](https://saylordotorg.github.io/text_essentials-of-geographic-information-systems/) *(likely won't need it)*
+* [Fundamentals of Electrical Engineering](https://cnx.org/exports/778e36af-4c21-4ef7-9c02-dae860eb7d14@9.72.pdf/fundamentals-of-electrical-engineering-i-9.72.pdf)
+* [Essentials of Geographic Information Systems](https://saylordotorg.github.io/text_essentials-of-geographic-information-systems/) *(likely won't need it)*
 ## Communication & Networks
-* Computer Networks: 
-  * [Computer Networks: A Systems Approach](https://book.systemsapproach.org/)
+* Signal Processing: [Think DSP](http://greenteapress.com/thinkdsp/thinkdsp.pdf)
+* Computer Networks: [Computer Networks: A Systems Approach](https://book.systemsapproach.org/)
 ## Algorithms & Data Structures
 * [Open Data Structures](https://www.aupress.ca/app/uploads/120226_99Z_Morin_2013-Open_Data_Structures.pdf)
 * [Think Data Structures](http://greenteapress.com/thinkdast/thinkdast.pdf)
