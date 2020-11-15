@@ -6,6 +6,7 @@ These Books and Resources all use licenses that permit **at least personal (non-
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/80x15.png" /></a>  
 #### ⚠️ This Collection is Work in Progress ⚠️  
 ### Todo:
+* Table of Contents
 * Complete 'Computer Architecture';
 * Add 'Operational Research' in 'Math';
 * Electricity Department a bit weak;
@@ -75,3 +76,6 @@ These Books and Resources all use licenses that permit **at least personal (non-
 * [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/index.html)
 * Quick Reads:
   * [10 Most(ly Dead) Influential Programming Languages](https://hillelwayne.com/post/influential-dead-languages/)
+# Software
+## Digital Electronics Design
+* [Deeds](https://www.digitalelectronicsdeeds.com/deeds.html) *(actually good simulators)*
