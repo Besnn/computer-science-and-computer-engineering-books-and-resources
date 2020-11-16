@@ -28,6 +28,7 @@ These Books and Resources all use licenses that permit **at least personal (non-
 * Theoretical Computer Science: [Foundations of Computation](http://math.hws.edu/FoundationsOfComputation/FoundationsOfComputation_2.3.2_6x9.pdf)
 * Quick Reads:
   * [Permutations & Combinations](https://math.berkeley.edu/~arash/55/6_3.pdf) *(recommended)*
+  * [Practical Guide to the Simplex Method of Linear Programming](http://math.jacobs-university.de/oliver/teaching/iub/spring2007/cps102/handouts/linear-programming.pdf) *(elaborate rundown)*
 ## Physics, Electricity & Electronics
 * Physics: [College Physics](https://openstax.org/details/books/college-physics) *(online; pdf)*
 * Circuit Theory:
