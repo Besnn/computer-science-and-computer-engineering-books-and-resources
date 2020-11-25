@@ -80,5 +80,7 @@ These Books and Resources all use licenses that permit **at least personal (non-
 * Quick Reads:
   * [10 Most(ly Dead) Influential Programming Languages](https://hillelwayne.com/post/influential-dead-languages/)
 # Software
+## Assembly
+* [SASM](https://dman95.github.io/SASM/english.html) *(there's precompiled versions; you'll need nasm/fasm)*
 ## Digital Electronics Design
 * [Deeds](https://www.digitalelectronicsdeeds.com/deeds.html) *(actually good simulators)*
