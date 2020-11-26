@@ -42,6 +42,7 @@ These Books and Resources all use licenses that permit **at least personal (non-
 * Quick Reads:
   * [Number Systems & Codes](http://www.aet.calu.edu/~jsumey/CET270/notes/01-Numbers.pdf)
   * [A Tiny Guide to Programming in 32-bit x86 Assembly Language](https://cs.dartmouth.edu/~sergey/cs258/tiny-guide-to-x86-assembly.pdf)
+  * [Temporary Logic](https://staff.science.uva.nl/y.venema/papers/TempLog.pdf)
 ## Systems
 * [Fundamentals of Electrical Engineering](https://cnx.org/exports/778e36af-4c21-4ef7-9c02-dae860eb7d14@9.72.pdf/fundamentals-of-electrical-engineering-i-9.72.pdf)
 * [Essentials of Geographic Information Systems](https://saylordotorg.github.io/text_essentials-of-geographic-information-systems/) *(likely won't need it)*
