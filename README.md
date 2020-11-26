@@ -51,6 +51,8 @@ These Books and Resources all use licenses that permit **at least personal (non-
 ## Algorithms & Data Structures
 * [Open Data Structures](https://www.aupress.ca/app/uploads/120226_99Z_Morin_2013-Open_Data_Structures.pdf)
 * [Think Data Structures](http://greenteapress.com/thinkdast/thinkdast.pdf)
+* Quick References:
+  * [CSMI 673: Concurrent and Distributed Programming](https://cs.lmu.edu/~ray/classes/cdp/)
 ## Software Engineering & Databases
 * Databases:
   * [Relational Algebra](http://pages.cs.wisc.edu/~dbbook/openAccess/firstEdition/slides/pdfslides/mod3l1.pdf)
