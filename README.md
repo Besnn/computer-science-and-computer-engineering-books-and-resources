@@ -89,4 +89,4 @@ These Books and Resources all use licenses that permit **at least personal (non-
 ## Digital Electronics Design
 * [Deeds](https://www.digitalelectronicsdeeds.com/deeds.html) *(actually good simulators)*
 ## Correctness Verification for Concurrent Programs
-* [Spin](https://spinroot.com/spin/Bin/)
+* [Spin](https://spinroot.com/spin/Bin/) *(you'll need to learn Pomela in order to model for Spin)*
