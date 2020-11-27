@@ -88,3 +88,5 @@ These Books and Resources all use licenses that permit **at least personal (non-
 * [SASM](https://dman95.github.io/SASM/english.html) *(there are also precompiled versions; you'll need nasm/fasm)*
 ## Digital Electronics Design
 * [Deeds](https://www.digitalelectronicsdeeds.com/deeds.html) *(actually good simulators)*
+## Correctness Verification for Concurrent Programs
+* [Spin](https://spinroot.com/spin/Bin/)
