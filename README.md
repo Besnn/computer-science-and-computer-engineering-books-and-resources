@@ -87,6 +87,9 @@ These Books and Resources all use licenses that permit **at least personal (non-
 ## Assembly
 * [SASM](https://dman95.github.io/SASM/english.html) *(there are also precompiled versions; you'll need nasm/fasm)*
 ## Digital Electronics Design
-* [Deeds](https://www.digitalelectronicsdeeds.com/deeds.html) *(actually good simulators)*
+* [Deeds](https://www.digitalelectronicsdeeds.com/deeds.html) *(actually good simulator software)* Contains:
+  * Digital Circuit Simulator;
+  * Finite State Machine Simulator;
+  * Micro-Computer Simulator
 ## Correctness Verification for Concurrent Programs
 * [Spin](https://spinroot.com/spin/Bin/) *(you'll need to learn Promela in order to model for Spin)*
