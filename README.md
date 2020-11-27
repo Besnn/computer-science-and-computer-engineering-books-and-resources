@@ -40,10 +40,9 @@ These Books and Resources all use licenses that permit **at least personal (non-
 * [8086 Assembly](https://github.com/gurugio/book_assembly_8086) *(w/ software)*
 * Operating Systems: [Operating Systems and Middleware:Supporting Controlled Interaction](https://gustavus.edu/mcs/max/os-book/osm-rev1.3.pdf)
 * [High Performance Computing](https://cnx.org/exports/bb821554-7f76-44b1-89e7-8a2a759d1347@5.2.pdf/high-performance-computing-5.2.pdf)
-* Quick Reads:
-  * [Number Systems & Codes](http://www.aet.calu.edu/~jsumey/CET270/notes/01-Numbers.pdf)
+* Complementary Resources:
+  * [Number Systems & Codes](https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/comps-programming/number_systems.pdf) *(recommended)*
   * [A Tiny Guide to Programming in 32-bit x86 Assembly Language](https://cs.dartmouth.edu/~sergey/cs258/tiny-guide-to-x86-assembly.pdf)
-  * [Temporary Logic](https://staff.science.uva.nl/y.venema/papers/TempLog.pdf)
 ## Systems
 * [Fundamentals of Electrical Engineering](https://cnx.org/exports/778e36af-4c21-4ef7-9c02-dae860eb7d14@9.72.pdf/fundamentals-of-electrical-engineering-i-9.72.pdf)
 * [Essentials of Geographic Information Systems](https://saylordotorg.github.io/text_essentials-of-geographic-information-systems/) *(likely won't need it)*
@@ -53,7 +52,7 @@ These Books and Resources all use licenses that permit **at least personal (non-
 ## Algorithms & Data Structures
 * [Open Data Structures](https://www.aupress.ca/app/uploads/120226_99Z_Morin_2013-Open_Data_Structures.pdf)
 * [Think Data Structures](http://greenteapress.com/thinkdast/thinkdast.pdf)
-* Quick References:
+* Complementary Resources:
   * [CSMI 673: Concurrent and Distributed Programming](https://cs.lmu.edu/~ray/classes/cdp/) *(course notes)*
 ## Software Engineering & Databases
 * Databases:
