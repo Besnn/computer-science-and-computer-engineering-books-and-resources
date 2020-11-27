@@ -10,7 +10,8 @@ These Books and Resources all use licenses that permit **at least personal (non-
 * Complete 'Computer Architecture';
 * Add 'Operational Research' in 'Math';
 * Electricity Department a bit weak;
-* Complete Syllabus *(https://www.wikiwand.com/en/Bachelor_of_Computer_Science has a good list)*
+* Complete Syllabus *(https://www.wikiwand.com/en/Bachelor_of_Computer_Science has a good list)*;
+* Deposit everything here (?)
 # Courses by Group
 ## Math
 * Preliminaries: [Precalculus](https://www.stitz-zeager.com/szprecalculus07042013.pdf)
