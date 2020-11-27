@@ -72,6 +72,7 @@ These Books and Resources all use licenses that permit **at least personal (non-
 * C++: [The C++ Annotation](http://www.icce.rug.nl/documents/cplusplus/) *(complete; previous experience with C-like syntax langs recommended)*
 * Java: [Think Java](https://greenteapress.com/wp/think-java/)
 * Python: [Think Python](http://www.greenteapress.com/thinkpython/thinkpython.pdf) *(I recommend learning Python; it's very useful)*
+* Lisp: [On Lisp](http://www.paulgraham.com/onlisp.html) *(Paul Graham's book)*
 ## Computational
 * [Introduction to GNU Octave: A brief tutorial for linear algebra and calculus students](http://www.wcc.vccs.edu/sites/default/files/Introduction-to-GNU-Octave.pdf)
 ## Web-related
