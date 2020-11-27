@@ -93,3 +93,4 @@ These Books and Resources all use licenses that permit **at least personal (non-
   * Micro-Computer Simulator
 ## Correctness Verification for Concurrent Programs
 * [Spin](https://spinroot.com/spin/Bin/) *(you'll need to learn Promela in order to model for Spin)*
+  * [Basic Spin Manual](https://courses.cs.washington.edu/courses/csep590/03su/Lectures/Promela.html) *(Promela fundamentals)*
