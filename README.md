@@ -41,6 +41,7 @@ These Books and Resources all use licenses that permit **at least personal (non-
 * Operating Systems: [Operating Systems and Middleware:Supporting Controlled Interaction](https://gustavus.edu/mcs/max/os-book/osm-rev1.3.pdf)
 * [High Performance Computing](https://cnx.org/exports/bb821554-7f76-44b1-89e7-8a2a759d1347@5.2.pdf/high-performance-computing-5.2.pdf)
 * Complementary Resources:
+  * [What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
   * [Number Systems & Codes](https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/comps-programming/number_systems.pdf) *(recommended)*
   * [A Tiny Guide to Programming in 32-bit x86 Assembly Language](https://cs.dartmouth.edu/~sergey/cs258/tiny-guide-to-x86-assembly.pdf)
 ## Systems
