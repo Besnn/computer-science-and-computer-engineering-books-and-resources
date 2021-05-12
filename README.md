@@ -77,8 +77,6 @@ These Books and Resources all use licenses that permit **at least personal (non-
 * Java: [Think Java](https://greenteapress.com/wp/think-java/)
 * Python:  
   * [Think Python](http://www.greenteapress.com/thinkpython/thinkpython.pdf) *(I recommend learning Python; it's very useful)*  
-          [Intermediate Python](https://book.pythontips.com/en/latest/)
-          [Intermediate Python](https://book.pythontips.com/en/latest/)
   * [Intermediate Python](https://book.pythontips.com/en/latest/)
 * Lisp: [On Lisp](http://www.paulgraham.com/onlisp.html) *(Paul Graham's book)*
 ## Computational
