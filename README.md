@@ -26,10 +26,12 @@ These Books and Resources all use licenses that permit **at least personal (non-
 * Statistics:
   * [Introductory Statistics](https://saylordotorg.github.io/text_introductory-statistics/)
   * Statistics with Python: [Think Stats: Exploratory Data Analysis in Python](http://greenteapress.com/thinkstats2/html/index.html)
-* Theoretical Computer Science: [Foundations of Computation](http://math.hws.edu/FoundationsOfComputation/FoundationsOfComputation_2.3.2_6x9.pdf)
 * Quick Reads:
   * [Permutations & Combinations](https://math.berkeley.edu/~arash/55/6_3.pdf) *(recommended)*
   * [Practical Guide to the Simplex Method of Linear Programming](http://math.jacobs-university.de/oliver/teaching/iub/spring2007/cps102/handouts/linear-programming.pdf) *(elaborate rundown)*
+## Theory
+* Theoretical Computer Science: [Foundations of Computation](http://math.hws.edu/FoundationsOfComputation/FoundationsOfComputation_2.3.2_6x9.pdf)
+* Quantum Informatics: [Lectures on Quantum Information Science](https://thosgood.com/quantum-info/book/)
 ## Physics, Electricity & Electronics
 * Physics: [College Physics](https://openstax.org/details/books/college-physics) *(online; pdf)*
 * Circuit Theory:
@@ -73,7 +75,11 @@ These Books and Resources all use licenses that permit **at least personal (non-
 * C: [Think C](https://raw.githubusercontent.com/tscheffl/ThinkC/master/PDF/Think-C.pdf) *(recommended)*
 * C++: [The C++ Annotation](http://www.icce.rug.nl/documents/cplusplus/) *(complete; previous experience with C-like syntax langs recommended)*
 * Java: [Think Java](https://greenteapress.com/wp/think-java/)
-* Python: [Think Python](http://www.greenteapress.com/thinkpython/thinkpython.pdf) *(I recommend learning Python; it's very useful)*
+* Python:  
+  * [Think Python](http://www.greenteapress.com/thinkpython/thinkpython.pdf) *(I recommend learning Python; it's very useful)*  
+          [Intermediate Python](https://book.pythontips.com/en/latest/)
+          [Intermediate Python](https://book.pythontips.com/en/latest/)
+  * [Intermediate Python](https://book.pythontips.com/en/latest/)
 * Lisp: [On Lisp](http://www.paulgraham.com/onlisp.html) *(Paul Graham's book)*
 ## Computational
 * [Introduction to GNU Octave: A brief tutorial for linear algebra and calculus students](http://www.wcc.vccs.edu/sites/default/files/Introduction-to-GNU-Octave.pdf)
