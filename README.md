@@ -18,7 +18,7 @@ These Books and Resources all use licenses that permit **at least personal (non-
 * Real Analysis:
   * Calculus I: [Basic Analysis I](https://www.jirka.org/ra/realanal.pdf)
   * Real Analysis (Calculus I & II): [Single Variable Calculus](https://www.whitman.edu/mathematics/calculus/calculus.pdf)
-* Multivariable Calculus: [Vector Calculus](http://www.mecmath.net/calc3book.pdf)
+* Multivariable Calculus: [Vector Calculus](https://anton-petrunin.github.io/calc3book/calc3book.pdf)
 * Calculus: [Calculus](https://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf) *(recommended since it's generously illustrated)*
 * Linear Algebra: 
   * [A First Course in Linear Algebra](http://linear.ups.edu/download/fcla-3.50-tablet.pdf)
