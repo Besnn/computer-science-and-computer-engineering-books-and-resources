@@ -28,6 +28,7 @@ These Books and Resources all use licenses that permit **at least personal (non-
   * Statistics with Python: [Think Stats: Exploratory Data Analysis in Python](http://greenteapress.com/thinkstats2/html/index.html)
 * Quick Reads:
   * [Permutations & Combinations](https://math.berkeley.edu/~arash/55/6_3.pdf) *(recommended)*
+  * [Intuitive Guide to Convolutions](https://betterexplained.com/articles/intuitive-convolution/)
   * [Practical Guide to the Simplex Method of Linear Programming](http://math.jacobs-university.de/oliver/teaching/iub/spring2007/cps102/handouts/linear-programming.pdf) *(elaborate rundown)*
 ## Theory
 * Theoretical Computer Science: [Foundations of Computation](http://math.hws.edu/FoundationsOfComputation/FoundationsOfComputation_2.3.2_6x9.pdf)
@@ -37,9 +38,9 @@ These Books and Resources all use licenses that permit **at least personal (non-
 * Circuit Theory:
   * [DC Circuits](https://shareok.org/bitstream/handle/11244/52245/DC%20Circuits,%201st%20Edition%20-%20Davis,%202016.pdf?sequence=17)
   * [AC Circuits](https://open.umn.edu/opentextbooks/formats/807)
+  * [Spinning Numbers](https://spinningnumbers.org/)
 ## Computers & Computer Architecture
 * Computers: [Digital Circuit Projects: An Overview of Digital Circuits Through Implementing Integrated Circuits](https://cupola.gettysburg.edu/cgi/viewcontent.cgi?article=1000&context=oer)
-* [8086 Assembly](https://github.com/gurugio/book_assembly_8086) *(w/ software)*
 * Operating Systems: [Operating Systems and Middleware: Supporting Controlled Interaction](https://gustavus.edu/mcs/max/os-book/osm-rev1.3.pdf)
 * [High Performance Computing](https://cnx.org/exports/bb821554-7f76-44b1-89e7-8a2a759d1347@5.2.pdf/high-performance-computing-5.2.pdf)
 * Complementary Resources:
@@ -51,7 +52,9 @@ These Books and Resources all use licenses that permit **at least personal (non-
 * [Fundamentals of Electrical Engineering](https://cnx.org/exports/778e36af-4c21-4ef7-9c02-dae860eb7d14@9.72.pdf/fundamentals-of-electrical-engineering-i-9.72.pdf)
 * [Essentials of Geographic Information Systems](https://saylordotorg.github.io/text_essentials-of-geographic-information-systems/) *(likely won't need it)*
 ## Communication & Networks
-* Signal Processing: [Think DSP](http://greenteapress.com/thinkdsp/thinkdsp.pdf)
+* Signal Processing:
+  * [Think DSP](http://greenteapress.com/thinkdsp/thinkdsp.pdf)
+  * [Signals & Systems](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-003-signals-and-systems-fall-2011/lecture-notes/)
 * Computer Networks: [Computer Networks: A Systems Approach](https://book.systemsapproach.org/)
 ## Algorithms & Data Structures
 * [Open Data Structures](https://www.aupress.ca/app/uploads/120226_99Z_Morin_2013-Open_Data_Structures.pdf)
@@ -72,15 +75,20 @@ These Books and Resources all use licenses that permit **at least personal (non-
 * [Abstract Algebra: Examples & Applications](http://abstractalgebra.altervista.org/index.html) *(pdf; html)*
 # Languages & Tools
 ## Programming Languages
+* Assembly:
+  * [8086 Assembly](https://github.com/gurugio/book_assembly_8086) *(w/ software)*
+  * [Learn Multiplatform 8086 Assembly Programming for World Domination](https://www.chibialiens.com/8086/)
 * C: [Think C](https://raw.githubusercontent.com/tscheffl/ThinkC/master/PDF/Think-C.pdf) *(recommended)*
 * C++: [The C++ Annotation](http://www.icce.rug.nl/documents/cplusplus/) *(complete; previous experience with C-like syntax langs recommended)*
 * Java: [Think Java](https://greenteapress.com/wp/think-java/)
 * Python:  
   * [Think Python](http://www.greenteapress.com/thinkpython/thinkpython.pdf) *(I recommend learning Python; it's very useful)*  
   * [Intermediate Python](https://book.pythontips.com/en/latest/)
+  * [The Hitchhiker's Guide to Python](https://docs.python-guide.org/)
 * Lisp: [On Lisp](http://www.paulgraham.com/onlisp.html) *(Paul Graham's book)*
 ## Computational
 * [Introduction to GNU Octave: A brief tutorial for linear algebra and calculus students](http://www.wcc.vccs.edu/sites/default/files/Introduction-to-GNU-Octave.pdf)
+* [GNU Linear Programming Kit](https://www.gnu.org/software/glpk/)
 ## Web-related
 * [Eloquent JavaScript](https://eloquentjavascript.net/)
 * [PHP Apprentice](https://phpapprentice.com/)
@@ -97,6 +105,8 @@ These Books and Resources all use licenses that permit **at least personal (non-
   * Digital Circuit Simulator;
   * Finite State Machine Simulator;
   * Micro-Computer Simulator
+## Operating Systems
+* [CPU Burst](http://cpuburst.com/)
 ## Correctness Verification for Concurrent Programs
 * [Spin](https://spinroot.com/spin/Bin/) *(you'll need to learn Promela in order to model for Spin)*
   * [Basic Spin Manual](https://courses.cs.washington.edu/courses/csep590/03su/Lectures/Promela.html) *(Promela fundamentals)*
