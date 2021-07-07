@@ -75,7 +75,7 @@ These Books and Resources all use licenses that permit **at least personal (non-
 # Languages & Tools
 ## Programming Languages
 * Assembly:
-  * [8086 Assembly](https://github.com/gurugio/book_assembly_8086) *(w/ software)*
+  * [SASM](https://dman95.github.io/SASM/english.html) *(there are also precompiled versions; you'll need a nasm/fasm binary)*
   * [Learn Multiplatform 8086 Assembly Programming for World Domination](https://www.chibialiens.com/8086/)
   * [A Tiny Guide to Programming in 32-bit x86 Assembly Language](https://cs.dartmouth.edu/~sergey/cs258/tiny-guide-to-x86-assembly.pdf)
 * C: [Think C](https://raw.githubusercontent.com/tscheffl/ThinkC/master/PDF/Think-C.pdf) *(recommended)*
@@ -97,14 +97,6 @@ These Books and Resources all use licenses that permit **at least personal (non-
 ## Web-related
 * [Eloquent JavaScript](https://eloquentjavascript.net/)
 * [PHP Apprentice](https://phpapprentice.com/)
-## Other
-* [Missing Semester](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J) *(recommended)*
-* [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/index.html)
-* Quick Reads:
-  * [10 Most(ly Dead) Influential Programming Languages](https://hillelwayne.com/post/influential-dead-languages/)
-# Software
-## Assembly
-* [SASM](https://dman95.github.io/SASM/english.html) *(there are also precompiled versions; you'll need nasm/fasm)*
 ## Digital Electronics Design
 * [Deeds](https://www.digitalelectronicsdeeds.com/deeds.html) *(actually good simulator software)* Contains:
   * Digital Circuit Simulator;
@@ -115,3 +107,8 @@ These Books and Resources all use licenses that permit **at least personal (non-
 ## Correctness Verification for Concurrent Programs
 * [Spin](https://spinroot.com/spin/Bin/) *(you'll need to learn Promela in order to model for Spin)*
   * [Basic Spin Manual](https://courses.cs.washington.edu/courses/csep590/03su/Lectures/Promela.html) *(Promela fundamentals)*
+## Other
+* [Missing Semester](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J) *(recommended)*
+* [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/index.html)
+* Quick Reads:
+  * [10 Most(ly Dead) Influential Programming Languages](https://hillelwayne.com/post/influential-dead-languages/)
