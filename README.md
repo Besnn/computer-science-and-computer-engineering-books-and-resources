@@ -49,12 +49,14 @@ These Books and Resources all use licenses that permit **at least personal (non-
   * [The Linux Kernel](https://tldp.org/LDP/tlk/tlk.html)  
   * [The Little Book of Semaphores](https://greenteapress.com/wp/semaphores/) *(for concurrent programming)*
 ## Systems
-* [Fundamentals of Electrical Engineering](https://cnx.org/exports/778e36af-4c21-4ef7-9c02-dae860eb7d14@9.72.pdf/fundamentals-of-electrical-engineering-i-9.72.pdf)
-* [Essentials of Geographic Information Systems](https://saylordotorg.github.io/text_essentials-of-geographic-information-systems/) *(likely won't need it)*
+
 ## Communication & Networks
 * Signal Processing:
   * [Think DSP](http://greenteapress.com/thinkdsp/thinkdsp.pdf)
   * [Signals & Systems](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-003-signals-and-systems-fall-2011/lecture-notes/)
+  * [Fundamentals of Electrical Engineering](https://cnx.org/exports/778e36af-4c21-4ef7-9c02-dae860eb7d14@9.72.pdf/fundamentals-of-electrical-engineering-i-9.72.pdf)
+  * GIS:
+  * [Essentials of Geographic Information Systems](https://saylordotorg.github.io/text_essentials-of-geographic-information-systems/) *(likely won't need it)*
 * Computer Networks: [Computer Networks: A Systems Approach](https://book.systemsapproach.org/)
 ## Algorithms & Data Structures
 * [Open Data Structures](https://www.aupress.ca/app/uploads/120226_99Z_Morin_2013-Open_Data_Structures.pdf)
