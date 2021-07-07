@@ -55,7 +55,7 @@ These Books and Resources all use licenses that permit **at least personal (non-
   * [Think DSP](http://greenteapress.com/thinkdsp/thinkdsp.pdf)
   * [Signals & Systems](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-003-signals-and-systems-fall-2011/lecture-notes/)
   * [Fundamentals of Electrical Engineering](https://cnx.org/exports/778e36af-4c21-4ef7-9c02-dae860eb7d14@9.72.pdf/fundamentals-of-electrical-engineering-i-9.72.pdf)
-  * GIS:
+* GIS:
   * [Essentials of Geographic Information Systems](https://saylordotorg.github.io/text_essentials-of-geographic-information-systems/) *(likely won't need it)*
 * Computer Networks: [Computer Networks: A Systems Approach](https://book.systemsapproach.org/)
 ## Algorithms & Data Structures
