@@ -88,7 +88,7 @@ These Books and Resources all use licenses that permit **at least personal (non-
 * Lisp: [On Lisp](http://www.paulgraham.com/onlisp.html) *(Paul Graham's book)*
 ## Computational
 * [Introduction to GNU Octave: A brief tutorial for linear algebra and calculus students](http://www.wcc.vccs.edu/sites/default/files/Introduction-to-GNU-Octave.pdf)
-* [GNU Linear Programming Kit](https://www.gnu.org/software/glpk/)
+* [GNU Linear Programming Kit](https://salsa.debian.org/science-team/glpk)
 ## Web-related
 * [Eloquent JavaScript](https://eloquentjavascript.net/)
 * [PHP Apprentice](https://phpapprentice.com/)
