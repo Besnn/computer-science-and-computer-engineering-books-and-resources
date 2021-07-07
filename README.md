@@ -47,6 +47,7 @@ These Books and Resources all use licenses that permit **at least personal (non-
   * [What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
   * [Number Systems & Codes](https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/comps-programming/number_systems.pdf) *(recommended)*
   * [The Linux Kernel](https://tldp.org/LDP/tlk/tlk.html)  
+  * [The Little Book of Semaphores](https://greenteapress.com/wp/semaphores/) *(for concurrent programming)*
 ## Systems
 * [Fundamentals of Electrical Engineering](https://cnx.org/exports/778e36af-4c21-4ef7-9c02-dae860eb7d14@9.72.pdf/fundamentals-of-electrical-engineering-i-9.72.pdf)
 * [Essentials of Geographic Information Systems](https://saylordotorg.github.io/text_essentials-of-geographic-information-systems/) *(likely won't need it)*
