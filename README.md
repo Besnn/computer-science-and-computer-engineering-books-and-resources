@@ -67,7 +67,6 @@ These Books and Resources all use licenses that permit **at least personal (non-
 * Databases:
   * [Database Design](https://web.archive.org/web/20190326200142/http://en.tekstenuitleg.net/articles/software/database-design-tutorial/intro.html)
   * [Relational Algebra](http://pages.cs.wisc.edu/~dbbook/openAccess/firstEdition/slides/pdfslides/mod3l1.pdf)
-  * [Relational Operators Explained](https://www.guru99.com/relational-algebra-dbms.html)
   * [Algebra of Bags](http://infolab.stanford.edu/~ullman/fcdb/aut07/slides/ra.pdf)
   * [Foundations of Databases](http://webdam.inria.fr/Alice/)
 * Embedded Systems:
