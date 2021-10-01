@@ -30,6 +30,7 @@ These Books and Resources all use licenses that permit **at least personal (non-
   * [Permutations & Combinations](https://math.berkeley.edu/~arash/55/6_3.pdf) *(recommended)*
   * [Intuitive Guide to Convolutions](https://betterexplained.com/articles/intuitive-convolution/)
   * [Practical Guide to the Simplex Method of Linear Programming](http://math.jacobs-university.de/oliver/teaching/iub/spring2007/cps102/handouts/linear-programming.pdf) *(elaborate rundown)*
+  * [The Art of Linear Algebra](https://raw.githubusercontent.com/kenjihiranabe/The-Art-of-Linear-Algebra/main/The-Art-of-Linear-Algebra.pdf)
 ## Theory
 * Theoretical Computer Science: [Foundations of Computation](http://math.hws.edu/FoundationsOfComputation/FoundationsOfComputation_2.3.2_6x9.pdf)
 * Quantum Informatics: [Lectures on Quantum Information Science](https://thosgood.com/quantum-info/book/)
