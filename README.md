@@ -72,6 +72,8 @@ These Books and Resources all use licenses that permit **at least personal (non-
   * [Foundations of Databases](http://webdam.inria.fr/Alice/)
 * Embedded Systems:
   * [Embedded Controllers Using C and Arduino](http://www.dissidents.com/resources/EmbeddedControllers.pdf)
+## Artificial Intelligence
+* [Artificial Intelligence: Foundations of Computational Agents](https://artint.info/2e/index.html)
 ## Cryptography & Abstract Algebra
 * Preliminaries: [Yet Another Introductory Number Theory Textbook](https://www.poritz.net/jonathan/share/yaintt.pdf)
 * [The Joy of Cryptography](https://web.engr.oregonstate.edu/~rosulekm/crypto/)
