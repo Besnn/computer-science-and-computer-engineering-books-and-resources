@@ -102,6 +102,7 @@ These Books and Resources all use licenses that permit **at least personal (non-
   * [Reference Manual for v4.1](https://www.math.ucdavis.edu/~mkoeppe/lehre/opt1-2003/glpk-refman.pdf)
   * [A Tutorial of AMPL for Linear Programming](https://www.cs.uic.edu/~hjin/files/ampl_tutorial.pdf)
 ## Web-related
+* [Learn web development](https://developer.mozilla.org/en-US/docs/Learn)
 * [Eloquent JavaScript](https://eloquentjavascript.net/)
 * [PHP Apprentice](https://phpapprentice.com/)
 ## Digital Electronics Design
