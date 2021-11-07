@@ -93,6 +93,7 @@ These Books and Resources all use licenses that permit **at least personal (non-
   * [Intermediate Python](https://book.pythontips.com/en/latest/)
   * [The Hitchhiker's Guide to Python](https://docs.python-guide.org/)
 * Lisp: [On Lisp](http://www.paulgraham.com/onlisp.html) *(Paul Graham's book)*
+* Java: [jGRASP](https://www.jgrasp.org/index.html) *(Educational IDE)*
 ## Computational
 * [Introduction to GNU Octave: A brief tutorial for linear algebra and calculus students](http://www.wcc.vccs.edu/sites/default/files/Introduction-to-GNU-Octave.pdf)
 * GNU Linear Programming Kit:  
