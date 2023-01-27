@@ -42,7 +42,9 @@ These Books and Resources all use licenses that permit **at least personal (non-
   * [Spinning Numbers](https://spinningnumbers.org/)
 ## Computers & Computer Architecture
 * Computers: [Digital Circuit Projects: An Overview of Digital Circuits Through Implementing Integrated Circuits](https://cupola.gettysburg.edu/cgi/viewcontent.cgi?article=1000&context=oer)
-* Operating Systems: [Think OS](https://greenteapress.com/wp/think-os/)
+* Operating Systems:  
+  * [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)  
+  * [Think OS](https://greenteapress.com/wp/think-os/)  
 * [High Performance Computing](https://cnx.org/exports/bb821554-7f76-44b1-89e7-8a2a759d1347@5.2.pdf/high-performance-computing-5.2.pdf)
 * Complementary Resources:
   * [What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
